@@ -7,9 +7,9 @@ Web Application - https://transport-log-c6cc3.web.app/
 # INTRODUCTION
 
 This application will store and maintain all the necessary
-records. Employee or the staff is required to login via his credentials to Add or Modify the database. The Administrator
-has the whole control of the application. He can add, update the rides, deploy accounts for the employees and manage the whole credits and older transactions. This way it is much easier and faster way to meet the speed go the current generation.
-The project objective is to store all the details of vehicles and generate individual reports based on daily transport. The Transport Log System is an online application that can be accessed by the employees and the Administrator.
+records. Employee or the staff is required to login via his credentials to Add or Modify the database.<br>The Administrator
+has the whole control of the application. He can add, update the rides, deploy accounts for the employees and manage the whole credits and older transactions.<br> This way it is much easier and faster way to meet the speed go the current generation.<br>
+The project objective is to store all the details of vehicles and generate individual reports based on daily transport. <br>The Transport Log System is an online application that can be accessed by the employees and the Administrator.
 
 
 
@@ -17,17 +17,17 @@ The project objective is to store all the details of vehicles and generate indiv
 
 # LITERATURE SURVEY
 
-There are a lot of changes that were needed in the transport departments of small businesses.
-One among them was keeping a track /log of all the vehicles in the department.
-Here are some references that were used to make this project better.
-IEEExplore:
-For the technical articles and conference papers.
-Google Firebase:
-For Understanding and efficiently using of the Firebase Database.
-ResearchGate.net:
-Case Studies used for better understanding of what is lacking in small businesses.
-Epa.gov:
-Transportation case studies.
+There are a lot of changes that were needed in the transport departments of small businesses.<br>
+One among them was keeping a track /log of all the vehicles in the department.<br>
+Here are some references that were used to make this project better.<br>
+IEEExplore:<br>
+For the technical articles and conference papers.<br>
+Google Firebase:<br>
+For Understanding and efficiently using of the Firebase Database.<br>
+ResearchGate.net:<br>
+Case Studies used for better understanding of what is lacking in small businesses.<br>
+Epa.gov:<br>
+Transportation case studies.<br>
 
 <img width="1522" alt="Screenshot 2022-03-27 at 11 18 07 PM" src="https://user-images.githubusercontent.com/65002995/164425989-6fcf9508-49c9-4f29-a18a-9ccdf7c9280a.png">
 
